@@ -4,3 +4,5 @@ def display_board
   row = "   |   |   "
   lineDash = "-----------"
 end
+
+puts display_board
